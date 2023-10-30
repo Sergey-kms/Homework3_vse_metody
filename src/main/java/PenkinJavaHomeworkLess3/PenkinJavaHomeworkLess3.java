@@ -25,6 +25,8 @@ public class PenkinJavaHomeworkLess3 {
         if (scan == 5) {
             addOrSubtractAndPrint(10, 50, false);
         }
+
+
     }
 
     public static void greetings() {
